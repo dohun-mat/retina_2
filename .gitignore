@@ -159,6 +159,7 @@ cython_debug/
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 
 # Exclude specific folders
+data/
 results/
 widerface_evaluate/widerface_txt
 wandb/
