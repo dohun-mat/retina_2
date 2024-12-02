@@ -161,6 +161,7 @@ cython_debug/
 # Exclude specific folders
 data/
 results/
+widerface_evaluate
 widerface_evaluate/widerface_txt
 wandb/
 weights/
